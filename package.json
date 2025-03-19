@@ -1,0 +1,8 @@
+{
+  "name": "com.moonsharp.luainterpreter",
+  "version": "1.0.0",
+  "displayName": "MoonSharp Lua Interpreter",
+  "description": "MoonSharp is a Lua interpreter written in C# for embedding in Unity projects.",
+  "unity": "2018.1",
+  "dependencies": {}
+}
